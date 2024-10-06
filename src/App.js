@@ -5,6 +5,7 @@ import {
 } from 'react-router-dom';
 import Home from './components/Home';
 import SearchResults, { loader as searchLoader } from './components/SearchResults';
+import MainList, { loader as mainLaoder } from './components/MainList';
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,11 @@ const router = createBrowserRouter([
         path: 'results/:keyword',
         element: <SearchResults />,
         loader: searchLoader,
+      },
+      {
+        path: '',
+        element: <MainList />,
+        loader: mainLaoder
       }
     ]
   }

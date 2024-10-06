@@ -1,36 +1,39 @@
 import { useLoaderData } from "react-router-dom";
 import api from '../api';
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 
-export const loader = async ({ params }) => {
+export const loader = async () => {
     try {
-        const response = await api.get('/search', {
+        const response = await api.get('/videos', {
             params: {
-                q: `${params.keyword}`,
+                part: 'snippet, contentDetails, statistics',
+                chart: 'mostPopular',
+                regionCode: 'US'
             },
         });
         return response.data.items;
     } catch (error) {
-        console.log(`Error Seraching Videos: ${error}`);
+        console.log(`Error Listing Videos: ${error}`);
         return null;
     };
 }
 
-export default function SearchResults() {
+export default function MainList() {
     const [videos, setVideos] = useState([]);
     const results = useLoaderData();
 
     useEffect(() => {
         if (results) {
+            console.log(results);
             setVideos(results);
-        };
+        }
     }, [results]);
 
     return (
         <ul>
             {videos.map((video) => (
-                <li key={video.id.videoId}>
-                    <img
+                <li key={video.id}>
+                    <img 
                         src={video.snippet.thumbnails.medium.url}
                     />
                     <p>{video.snippet.title}</p>
