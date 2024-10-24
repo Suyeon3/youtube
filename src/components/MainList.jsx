@@ -1,4 +1,4 @@
-import { useLoaderData } from "react-router-dom";
+import { useLoaderData, useNavigate } from "react-router-dom";
 import api from '../api';
 import { useState, useEffect } from "react";
 
@@ -6,9 +6,9 @@ export const loader = async () => {
     try {
         const response = await api.get('/videos', {
             params: {
-                part: 'snippet, contentDetails, statistics',
+                part: 'snippet,contentDetails,statistics',
                 chart: 'mostPopular',
-                regionCode: 'US'
+                regionCode: 'KR'
             },
         });
         return response.data.items;
@@ -21,6 +21,7 @@ export const loader = async () => {
 export default function MainList() {
     const [videos, setVideos] = useState([]);
     const results = useLoaderData();
+    const navigate = useNavigate();
 
     useEffect(() => {
         if (results) {
@@ -29,14 +30,19 @@ export default function MainList() {
         }
     }, [results]);
 
+    const clickVideo = (vi) => {
+        navigate(`watch/${vi}`);
+    }
+
     return (
         <ul>
             {videos.map((video) => (
                 <li key={video.id}>
-                    <img 
+                    <img
                         src={video.snippet.thumbnails.medium.url}
+                        onClick={() => clickVideo(video.id)}
                     />
-                    <p>{video.snippet.title}</p>
+                    <p onClick={() => clickVideo(video.id)}>{video.snippet.title}</p>
                 </li>
             ))}
         </ul>

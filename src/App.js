@@ -6,6 +6,7 @@ import {
 import Home from './components/Home';
 import SearchResults, { loader as searchLoader } from './components/SearchResults';
 import MainList, { loader as mainLaoder } from './components/MainList';
+import VideoDetail, { loader as videoDetailLoader } from './components/VideoDetail';
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,11 @@ const router = createBrowserRouter([
         path: '',
         element: <MainList />,
         loader: mainLaoder
+      },
+      {
+        path: 'watch/:vi',
+        element: <VideoDetail />,
+        loader: videoDetailLoader
       }
     ]
   }

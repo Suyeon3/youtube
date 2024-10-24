@@ -13,9 +13,7 @@ export default function Header() {
     e.preventDefault();
     if (keyword.trim().length !== 0) {
       const encodedKeyword = encodeURIComponent(keyword);
-      navigate(`/results/${encodedKeyword}`, {
-        state: { searchVal: keyword }
-      })
+      navigate(`/results/${encodedKeyword}`);
       setKeyword('');
     }
   };
