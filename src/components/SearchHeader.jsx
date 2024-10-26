@@ -29,16 +29,23 @@ export default function SearchHeader() {
 
   return (
 
-    <header className="header">
-      <BsYoutube onClick={backHome} />
-      <span>YouTube</span>
-      <form>
+    <header className='w-full flex p-4 text-2xl border-b border-zinc-600 mb-4 items-center'>
+      <BsYoutube className='text-4xl text-brand' onClick={backHome} />
+      <h1 className="font-bold ml-2 text-3xl">YouTube</h1>
+      <form className="w-full flex justify-center items-center">
         <input
+          className="w-7/12 p-2 outline-none bh-black text-gray-50"
           placeholder='Search'
           value={keyword}
           onChange={handleKeyword}
-          onKeyDown={handleEnter} />
-        <BiSearch onClick={handleSearch} />
+          onKeyDown={handleEnter}
+        />
+        <button className='bg-zinc-600 px-4 py-2'>
+          <BiSearch
+            className="text-4xl"
+            onClick={handleSearch} />
+        </button>
+
       </form>
     </header>
   )
