@@ -1,10 +1,10 @@
 import { Outlet } from "react-router-dom"
-import Header from "./Header"
+import SearchHeader from "../components/SearchHeader"
 
 export default function Home() {
     return (
         <>
-            <Header />
+            <SearchHeader />
             <div className="main">
                 <Outlet />
             </div>

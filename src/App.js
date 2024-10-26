@@ -3,10 +3,10 @@ import {
   createBrowserRouter,
   RouterProvider
 } from 'react-router-dom';
-import Home from './components/Home';
-import SearchResults, { loader as searchLoader } from './components/SearchResults';
-import MainList, { loader as mainLaoder } from './components/MainList';
-import VideoDetail, { loader as videoDetailLoader } from './components/VideoDetail';
+import Home from './pages/Home';
+import SearchResults, { loader as searchLoader } from './pages/SearchResults';
+import MainList, { loader as mainLaoder } from './pages/MainList';
+import VideoDetail, { loader as videoDetailLoader } from './pages/VideoDetail';
 
 const router = createBrowserRouter([
   {
@@ -14,15 +14,16 @@ const router = createBrowserRouter([
     element: <Home />,
     children: [
       {
-        path: 'results/:keyword',
-        element: <SearchResults />,
-        loader: searchLoader,
-      },
-      {
         path: '',
         element: <MainList />,
         loader: mainLaoder
       },
+      {
+        path: 'results/:keyword',
+        element: <SearchResults />,
+        loader: searchLoader,
+      },
+
       {
         path: 'watch/:vi',
         element: <VideoDetail />,
