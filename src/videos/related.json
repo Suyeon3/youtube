@@ -1,0 +1,884 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GVCzMnO4CK6eoo9FFiRVmPOKqxk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "T93wapRq5DSBAVb5_7B-YWaIXtY",
+        "id": "soSLgKeBQm4",
+        "snippet": {
+          "publishedAt": "2024-10-26T22:37:44Z",
+          "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+          "title": "[UFC] 일리아 토푸리아 vs 맥스 할로웨이",
+          "description": "[UFC] 일리아 토푸리아(Ilia Topuria) vs 맥스 할로웨이(Max Holloway) - 페더급",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/soSLgKeBQm4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/soSLgKeBQm4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/soSLgKeBQm4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/soSLgKeBQm4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/soSLgKeBQm4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "tvN SPORTS",
+          "tags": [
+            "KO",
+            "UFC NO",
+            "UFC UK",
+            "UFC fight pass",
+            "Ufc307",
+            "Ultimate fighting championship",
+            "ufc",
+            "댄 이게",
+            "로버트 휘태커",
+            "르론 머피",
+            "마고메드 안칼라예프",
+            "마테우슈 레베츠키",
+            "맥스 할로웨이",
+            "믹티베크 오롤바이",
+            "브루누 페레이라",
+            "샤라 마고메도프",
+            "슈퍼보이",
+            "아르멘 페트로시안",
+            "아부스 마고메도프",
+            "알렉산더 라치키",
+            "이보 아슬란",
+            "일리아 토푸리아",
+            "정찬성",
+            "제프 닐",
+            "최두호",
+            "코리안좀비",
+            "하파엘 도스 안요스",
+            "하파엘 세르케이라",
+            "함자트 치마예프"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "[UFC] 일리아 토푸리아 vs 맥스 할로웨이",
+            "description": "[UFC] 일리아 토푸리아(Ilia Topuria) vs 맥스 할로웨이(Max Holloway) - 페더급"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT22M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "allowed": [
+              "KR"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1380139",
+          "likeCount": "19245",
+          "favoriteCount": "0",
+          "commentCount": "8315"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TceyXqpZtNYmqEg0iOMFZXky9Ko",
+        "id": "hE2wMo5Coco",
+        "snippet": {
+          "publishedAt": "2024-10-27T10:33:47Z",
+          "channelId": "UCfqVrM2cvwxG3-EvxbsN0KQ",
+          "title": "한 달을 차에서 먹고산 행사철 다비치",
+          "description": "왔어요 왔어 전국팔도 다비치 유랑단이 왔어요 ~_~\n\n💄 립과 💅 네일은 🪞Portré 입니다 🤍\n 🔗 https://portre.co.kr/\n포트레 온라인 스토어에서 찾을 수 없는 아이템은.. 테스트 샘플 혹은 *출시 예정*일 수 있습니다 ＼(°o°；）ㅁ\n\n\n*NOT SPONSORED\n이 영상은 유료 광고를 포함하고 있지 않습니다.\n\n\nCopyright © 2018-2024 by iammingki. All rights reserved.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hE2wMo5Coco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hE2wMo5Coco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hE2wMo5Coco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hE2wMo5Coco/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hE2wMo5Coco/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "걍밍경",
+          "tags": [
+            "강민경",
+            "다비치",
+            "davichi",
+            "kang min kyung",
+            "자취 브이로그",
+            "연예인 브이로그",
+            "먹방",
+            "vlog",
+            "mukbang",
+            "한국 브이로그",
+            "k-pop",
+            "이해리",
+            "iammingki",
+            "다비치 브이로그",
+            "강휴지",
+            "자취브이로그",
+            "일상브이로그",
+            "ootd",
+            "fashion",
+            "강아지",
+            "애견",
+            "후지",
+            "휴지",
+            "감자",
+            "컴백",
+            "강민경 식단",
+            "korean",
+            "다비치 케미",
+            "강민경사복",
+            "n잡",
+            "여자브이로그",
+            "30대브이로그",
+            "20대브이로그",
+            "먹방브이로그",
+            "mukbang vlog",
+            "미혼",
+            "맛집",
+            "아비에무아",
+            "avie muah",
+            "혼술",
+            "차박",
+            "캠핑",
+            "캠핑 브이로그",
+            "차박 브이로그",
+            "브이로그",
+            "차밥열끼",
+            "전국팔도 다비치 유랑단",
+            "다비치 유랑단",
+            "유랑단",
+            "차밥",
+            "chabap",
+            "평양냉면 먹방",
+            "간장게장 먹방",
+            "피양옥",
+            "차밥 브이로그",
+            "다비치 차밥"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "한 달을 차에서 먹고산 행사철 다비치",
+            "description": "왔어요 왔어 전국팔도 다비치 유랑단이 왔어요 ~_~\n\n💄 립과 💅 네일은 🪞Portré 입니다 🤍\n 🔗 https://portre.co.kr/\n포트레 온라인 스토어에서 찾을 수 없는 아이템은.. 테스트 샘플 혹은 *출시 예정*일 수 있습니다 ＼(°o°；）ㅁ\n\n\n*NOT SPONSORED\n이 영상은 유료 광고를 포함하고 있지 않습니다.\n\n\nCopyright © 2018-2024 by iammingki. All rights reserved."
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT28M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "459587",
+          "likeCount": "10012",
+          "favoriteCount": "0",
+          "commentCount": "632"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AusVsLkVglzJZnYVWnbuGeonVGQ",
+        "id": "INTKmrR1QtY",
+        "snippet": {
+          "publishedAt": "2024-10-27T08:50:55Z",
+          "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+          "title": "THE BELIEVER AND THE GOD | GEN vs T1 |  Worlds 2024",
+          "description": "Faker, the undisputed GOAT of League of Legends and leader of T1, has lifted four Summoner’s Cups so far in his career. Few in League of Legends history can match the sheer skill Faker has displayed. Now, GEN G’s Chovy rises to challenge Faker’s legacy, aiming to establish himself as the world’s top midlaner. In this Worlds 2024 Semifinals clash, LCK juggernauts GEN and T1 battle to prove who is the definitive best team in the LCK and earn their shot to travel to London to compete for the Summoner’s Cup in the Worlds 2024 finals. \n\nSemifinals Day 2\nGEN vs T1\n\nWorlds 2024 is HERE! \n\nWatch #Worlds2024 and give in to belief at https://lolesports.com\n\nPlay-In Stage: Sept 25 - 29\nSwiss Stage: Oct 3 - 13\nKnockout Stage: Oct 17 - Nov 2\nGrand Final & Opening Ceremony: Nov 2\n\nTo stay up to date with the best of #Worlds2024, follow LoL Esports on social media:\n\nTwitter: https://twitter.com/lolesports\nFacebook: https://www.facebook.com/lolesports\nInstagram: https://www.instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports\nMeta Threads: https://www.threads.net/@lolesports\nWhatsapp: https://whatsapp.com/channel/0029VaoXKW0HwXbHjXvCdC34\n\nDownload League of Legends now: http://leagueoflegends.com/download",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/INTKmrR1QtY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/INTKmrR1QtY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/INTKmrR1QtY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/INTKmrR1QtY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/INTKmrR1QtY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LoL Esports",
+          "tags": [
+            "Worlds 2024",
+            "worlds",
+            "league of legends",
+            "worlds league of legends",
+            "worlds 2024",
+            "esports",
+            "lck",
+            "lcs",
+            "lpl",
+            "cblol",
+            "lla",
+            "lec",
+            "pcs",
+            "vcs",
+            "swiss stage",
+            "worlds 2024 league of legends",
+            "lol esports",
+            "lol 2024",
+            "lol worlds 2024"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "THE BELIEVER AND THE GOD | GEN vs T1 |  Worlds 2024",
+            "description": "Faker, the undisputed GOAT of League of Legends and leader of T1, has lifted four Summoner’s Cups so far in his career. Few in League of Legends history can match the sheer skill Faker has displayed. Now, GEN G’s Chovy rises to challenge Faker’s legacy, aiming to establish himself as the world’s top midlaner. In this Worlds 2024 Semifinals clash, LCK juggernauts GEN and T1 battle to prove who is the definitive best team in the LCK and earn their shot to travel to London to compete for the Summoner’s Cup in the Worlds 2024 finals. \n\nSemifinals Day 2\nGEN vs T1\n\nWorlds 2024 is HERE! \n\nWatch #Worlds2024 and give in to belief at https://lolesports.com\n\nPlay-In Stage: Sept 25 - 29\nSwiss Stage: Oct 3 - 13\nKnockout Stage: Oct 17 - Nov 2\nGrand Final & Opening Ceremony: Nov 2\n\nTo stay up to date with the best of #Worlds2024, follow LoL Esports on social media:\n\nTwitter: https://twitter.com/lolesports\nFacebook: https://www.facebook.com/lolesports\nInstagram: https://www.instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports\nMeta Threads: https://www.threads.net/@lolesports\nWhatsapp: https://whatsapp.com/channel/0029VaoXKW0HwXbHjXvCdC34\n\nDownload League of Legends now: http://leagueoflegends.com/download"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "960372",
+          "likeCount": "41366",
+          "favoriteCount": "0",
+          "commentCount": "3534"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZpmKEciaKyzlfn89WUZ5RI-jghs",
+        "id": "eXk-CNSNcto",
+        "snippet": {
+          "publishedAt": "2024-10-26T07:44:56Z",
+          "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+          "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송",
+          "description": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송\n\n#aespa #Whiplash #MBCKPOP\n\n★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/musiccore\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eXk-CNSNcto/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eXk-CNSNcto/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eXk-CNSNcto/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eXk-CNSNcto/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eXk-CNSNcto/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MBCkpop",
+          "tags": [
+            "mbc",
+            "KPOP",
+            "dance",
+            "song",
+            "korea",
+            "korean",
+            "show",
+            "music core",
+            "live",
+            "stage",
+            "girl",
+            "boy",
+            "idol",
+            "한류",
+            "korean wave",
+            "ingigayo",
+            "show champion",
+            "mnet",
+            "엠넷",
+            "music bank",
+            "쇼 음악중심",
+            "쇼음악중심",
+            "쇼음중",
+            "음중",
+            "예능 연구소 에스파",
+            "에스파",
+            "aespa",
+            "Whiplash",
+            "aespa Fancam",
+            "Whiplash Fancam",
+            "에스파 직캠",
+            "aespa Whiplash",
+            "카리나",
+            "윈터",
+            "지젤",
+            "닝닝",
+            "KARINA",
+            "WINTER",
+            "GISELLE",
+            "NINGNING"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송",
+            "description": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송\n\n#aespa #Whiplash #MBCKPOP\n\n★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/musiccore\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT3M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "JP"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1390906",
+          "likeCount": "71277",
+          "favoriteCount": "0",
+          "commentCount": "2935"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "adoDkLKKvNjtSQ_Xx6Ks_H7ogdM",
+        "id": "8Ebqe2Dbzls",
+        "snippet": {
+          "publishedAt": "2024-10-24T23:00:11Z",
+          "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+          "title": "ROSÉ & Bruno Mars - APT. (Official Lyric Video)",
+          "description": "The official lyric video for ROSÉ & Bruno Mars' APT.\nListen to APT.: https://rosesarerosie.lnk.to/APTID\n\nOrder the APT. limited CD single now: https://rosesarerosie.lnk.to/APT-CDID\n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more: https://Atlantic.lnk.to/BMsubscribe\n\n🎵 Listen to the Best of Bruno Mars playlist ➤ https://bit.ly/3bbslw8\u200b\n🎵 Watch Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\u200b\n🎵 Dance At Home with Bruno Mars ➤ https://bit.ly/BrunoDanceAtHome\n\nConnect with Bruno:\nhttp://www.brunomars.com\u200b\nhttp://www.instagram.com/brunomars\u200b\nhttp://www.twitter.com/brunomars\u200b\nhttp://www.facebook.com/brunomars\nhttps://www.tiktok.com/@brunomars\n\nConnect with ROSÉ: \nhttp://www.rosesarerosie.com\nhttp://www.instagram.com/roses_are_rosie\nhttp://www.twitter.com/numberoneHQ\u200b\nhttps://www.tiktok.com/@roses_are_rosie\n\nSee Bruno Mars on tour! Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise! https://brunom.rs/brunomarsstore\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\nLyrics:\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\nKissy face, kissy face\nSent to your phone but,\nI'm trying to kiss your lips for real\nRed hearts, red hearts\nThat’s what I’m on yeah\nCome give me something I can feel\nOh oh oh\n\nDon't you want me like I want you, baby \nDon't you need me like I need you now S\nleep tomorrow but tonight go crazy\nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트\n아파트 아파트\nUh, uh huh uh huh\n\nIt’s whatever it’s whatever it’s whatever you like\nTurn this 아파트 into a club\nI’m talking drink, dance, smoke, freak, party all night \n건배 건배 girl what’s up\nOh oh oh\n\nDon't you want me like I want you, baby\nDon't you need me like I need you now\nSleep tomorrow but tonight go crazy\nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 U\nh, uh huh uh huh\n\nHey so now you know the game \nAre you ready?\nCause I’m comin to get ya\nGet ya, get ya\n\nHold on, hold on\nI’m on my way\nYeah yeah yeah yeah yeah\n I’m on my way\nHold on, hold on\nI’m on my way\nYeah yeah yeah yeah yeah \nI’m on my way\n\nDon't you want me like I want you, baby \nDon't you need me like I need you now \nSleep tomorrow but tonight go crazy \nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트\n아파트 아파트\nUh, uh huh uh huh\n \n#BrunoMars #ROSÉ #APT #LyricVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8Ebqe2Dbzls/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bruno Mars",
+          "tags": [
+            "bruno mars",
+            "bruno",
+            "atlantic records",
+            "official video",
+            "pop music",
+            "R&B",
+            "funk",
+            "soul",
+            "rose",
+            "rose bruno mars",
+            "apt lyrics",
+            "rose bruno mars lyrics",
+            "bruno mars lyrics",
+            "bruno mars rose lyrics",
+            "rose apt lyrics",
+            "bruno mars apt lyrics",
+            "apt",
+            "apt.",
+            "bruno mars rose apt",
+            "apt rose bruno mars",
+            "rose bruno mars apt",
+            "meet me at the apt",
+            "rosie bruno mars",
+            "bruno mars rosie"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ROSÉ & Bruno Mars - APT. (Official Lyric Video)",
+            "description": "The official lyric video for ROSÉ & Bruno Mars' APT.\nListen to APT.: https://rosesarerosie.lnk.to/APTID\n\nOrder the APT. limited CD single now: https://rosesarerosie.lnk.to/APT-CDID\n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more: https://Atlantic.lnk.to/BMsubscribe\n\n🎵 Listen to the Best of Bruno Mars playlist ➤ https://bit.ly/3bbslw8\u200b\n🎵 Watch Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\u200b\n🎵 Dance At Home with Bruno Mars ➤ https://bit.ly/BrunoDanceAtHome\n\nConnect with Bruno:\nhttp://www.brunomars.com\u200b\nhttp://www.instagram.com/brunomars\u200b\nhttp://www.twitter.com/brunomars\u200b\nhttp://www.facebook.com/brunomars\nhttps://www.tiktok.com/@brunomars\n\nConnect with ROSÉ: \nhttp://www.rosesarerosie.com\nhttp://www.instagram.com/roses_are_rosie\nhttp://www.twitter.com/numberoneHQ\u200b\nhttps://www.tiktok.com/@roses_are_rosie\n\nSee Bruno Mars on tour! Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise! https://brunom.rs/brunomarsstore\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\nLyrics:\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\nKissy face, kissy face\nSent to your phone but,\nI'm trying to kiss your lips for real\nRed hearts, red hearts\nThat’s what I’m on yeah\nCome give me something I can feel\nOh oh oh\n\nDon't you want me like I want you, baby \nDon't you need me like I need you now S\nleep tomorrow but tonight go crazy\nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트\n아파트 아파트\nUh, uh huh uh huh\n\nIt’s whatever it’s whatever it’s whatever you like\nTurn this 아파트 into a club\nI’m talking drink, dance, smoke, freak, party all night \n건배 건배 girl what’s up\nOh oh oh\n\nDon't you want me like I want you, baby\nDon't you need me like I need you now\nSleep tomorrow but tonight go crazy\nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nUh, uh huh uh huh\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 U\nh, uh huh uh huh\n\nHey so now you know the game \nAre you ready?\nCause I’m comin to get ya\nGet ya, get ya\n\nHold on, hold on\nI’m on my way\nYeah yeah yeah yeah yeah\n I’m on my way\nHold on, hold on\nI’m on my way\nYeah yeah yeah yeah yeah \nI’m on my way\n\nDon't you want me like I want you, baby \nDon't you need me like I need you now \nSleep tomorrow but tonight go crazy \nAll you gotta do is just meet me at the\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트 \n아파트 아파트 \nJust meet me at the (Uh huh uh huh)\n\n아파트 아파트 \n아파트 아파트\n아파트 아파트\nUh, uh huh uh huh\n \n#BrunoMars #ROSÉ #APT #LyricVideo"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8349604",
+          "likeCount": "360042",
+          "favoriteCount": "0",
+          "commentCount": "8793"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K3TnZ8g-3NHoXXcuxaEPFzGDGN0",
+        "id": "Nr4HR7NUuaY",
+        "snippet": {
+          "publishedAt": "2024-10-27T10:00:02Z",
+          "channelId": "UCz0F9ndJTA0eL2XyL5R8YNg",
+          "title": "네덜란드 온 동네 사람들이 도와 강아지를 찾아준 감동의 순간..!",
+          "description": "부채널 멜라니의 일상은 \"멜랑\" https://www.youtube.com/@bonglebaby\n멜봉 인스타: @melandbong www.instragram.com/melandbong\n봉글이 인스타: @bongle.baby www.instragram.com/bongle.baby\n협업 문의: mel.h.park@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nr4HR7NUuaY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nr4HR7NUuaY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nr4HR7NUuaY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nr4HR7NUuaY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nr4HR7NUuaY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "멜봉 네덜란드 MelBong",
+          "tags": [
+            "국제 가족",
+            "국제 커플",
+            "네덜란드 커플",
+            "네덜란드 이민",
+            "해외 이민",
+            "외국인 먹방",
+            "외국인 반응",
+            "혼혈 아기",
+            "귀여운 아기",
+            "강아지 아기",
+            "진돗개 아기",
+            "이민",
+            "유럽 이민",
+            "유럽 여행",
+            "코코지",
+            "코코지 후기",
+            "봉글이",
+            "세랑이",
+            "혼혈아기",
+            "진돗개",
+            "아기와 강아지",
+            "아기와 진돗개"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "네덜란드 온 동네 사람들이 도와 강아지를 찾아준 감동의 순간..!",
+            "description": "부채널 멜라니의 일상은 \"멜랑\" https://www.youtube.com/@bonglebaby\n멜봉 인스타: @melandbong www.instragram.com/melandbong\n봉글이 인스타: @bongle.baby www.instragram.com/bongle.baby\n협업 문의: mel.h.park@gmail.com"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT14M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "227843",
+          "likeCount": "22842",
+          "favoriteCount": "0",
+          "commentCount": "1538"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EGtK8P1_yvGgN90_Z38XHbPf4lw",
+        "id": "4Dr7HljrsoQ",
+        "snippet": {
+          "publishedAt": "2024-10-25T09:00:07Z",
+          "channelId": "UCch9Dmg5Juwp8MZGvAmAp4Q",
+          "title": "F I N A L ｜ Alien Stage",
+          "description": "▶Instrumental download : https://soundcloud.com/licomusic/blink-gone-instrumental",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4Dr7HljrsoQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4Dr7HljrsoQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4Dr7HljrsoQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4Dr7HljrsoQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4Dr7HljrsoQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VIVINOS",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "F I N A L ｜ Alien Stage",
+            "description": "▶Instrumental download : https://soundcloud.com/licomusic/blink-gone-instrumental"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT4M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3840962",
+          "likeCount": "332328",
+          "favoriteCount": "0",
+          "commentCount": "38295"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "F6l2gYf91UGZsQESxyJXWmcGGWQ",
+        "id": "R0EigX2f25s",
+        "snippet": {
+          "publishedAt": "2024-10-27T12:05:49Z",
+          "channelId": "UCKUz_7LxgiMXa0lrwzzsKTQ",
+          "title": "[박수홍 행복해다홍] 박수홍 다시 태어나다 | 전복이 탄생 순간 | 출산브이로그 2편 | 딸 출산 | 딸바보 | 가족 완전체 |",
+          "description": "#박수홍 #박수홍딸 #김다예 #전복이 #출산",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R0EigX2f25s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R0EigX2f25s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R0EigX2f25s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R0EigX2f25s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R0EigX2f25s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "박수홍 행복해다홍",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "[박수홍 행복해다홍] 박수홍 다시 태어나다 | 전복이 탄생 순간 | 출산브이로그 2편 | 딸 출산 | 딸바보 | 가족 완전체 |",
+            "description": "#박수홍 #박수홍딸 #김다예 #전복이 #출산"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT9M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "311395",
+          "likeCount": "13045",
+          "favoriteCount": "0",
+          "commentCount": "855"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zwq85oN92NjbSGP0M7uEdL_x69o",
+        "id": "1zKn_NtWO-8",
+        "snippet": {
+          "publishedAt": "2024-10-24T10:57:43Z",
+          "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+          "title": "'최초 공개' aespa - Whiplash #엠카운트다운 EP.868 | Mnet 241024 방송",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.868\n에스파 - 위플래시 (aespa - Whiplash)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1zKn_NtWO-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1zKn_NtWO-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1zKn_NtWO-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1zKn_NtWO-8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1zKn_NtWO-8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mnet K-POP",
+          "tags": [
+            "CJ100",
+            "MCOUNTDOWN",
+            "Mnet",
+            "Whiplash",
+            "aespa",
+            "에스파",
+            "엠넷",
+            "엠카운트다운",
+            "위플래시",
+            "티빙에서스트리밍"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "'최초 공개' aespa - Whiplash #엠카운트다운 EP.868 | Mnet 241024 방송",
+            "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.868\n에스파 - 위플래시 (aespa - Whiplash)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT4M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4125685",
+          "likeCount": "193678",
+          "favoriteCount": "0",
+          "commentCount": "7261"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jrdUqjCVFVx44CN6URaFjkkMYvE",
+        "id": "VbqvXr0zhUc",
+        "snippet": {
+          "publishedAt": "2024-10-27T10:59:09Z",
+          "channelId": "UCpGmwseGcRtyG8GxRmozKPA",
+          "title": "다시 대학에 갑니다 | 드로우마이라이프, 새로운 30대의 시작📈",
+          "description": "*흩어진 조각들을 하나로 꿰어 이야기로 만드는 순간, 우리는 모두 특별한 이야기의 주인공이 됩니다!*\n\n모두에게는 각자만의 이야기가 있어요. 누구나 스스로가 싫어서 눈물만 나는 시기를 피할 수 없고, 끝없이 지속됐으면 하는 행복한 날들 또한 언젠가는 찾아오기 마련입니다.\n\n불안하고 지난했던 시간들도 지나고 보니 다 내가 되었고, 주저 앉은 만큼 다시 일어나서 뛸 줄 아는 사람이 되었더라구요. 불가항적인 인생의 굴곡을 지나온 10년을 돌아보니 저의 산란한 이야기도 결국 하나의 궤로 관통되는 것 같아요.\n\n그 끝에 제가 도달한 결론은, 우리가 할 수 있는 최선이\n[미래의 내가, 과거의 나를 대견하게 여길 수 있도록, 현재의 내가 꾸준히 살아가는 것] 뿐이라는 거예요. \n\n여러분에게 힘든 순간이 올 때마다 몇 번이고 쓰라린 경험을 했던 저를 떠올리며, 언젠가는 좋은 날도 찾아온다는 마음을 품으신다면 저는 더 바랄 게 없겠어요. 잘못 탄 기차가 때로는 나를 새로운 목적지로 데려다준다는 희망적인 가능성도 떠올리면서요.\n\n저는 이제 20대의 스스로를 대견히 보내주면서 30대에는 새로운 도전을 해보려고 합니다. 다음 영상에 더 자세한 내용을 담아올게요!\n\n제 인생의 여러 전환점에 항상 함께해 주신 구독자 여러분께도 다시 한번 감사의 인사를 드립니다. 백 번을 드려도 모자랄 감사! 압도적 감사! 사랑합니다… 🤎\n\n\n🔖영상에 나온 이야기들 보러가기 📫📬📭\n*취준생*\nhttps://youtu.be/WdFsFIzwKH0?si=QSdheYTlXA0KJH_V\n*어떻게 만났어요?*\n1) https://www.youtube.com/watch?v=mYWnqExvc9g\n2) https://youtu.be/vdDe_6556_Q\n*인턴 합격의 순간*\nhttps://www.youtube.com/watch?v=XXdpvQFfrJw\n*공채 합격의 순간* \nhttps://www.youtube.com/watch?v=rVkTIecC8Qo\n*첫출근* \nhttps://www.youtube.com/watch?v=EspWqrPm-3s\n*홈쇼핑 PD 브이로그* \nhttps://www.youtube.com/watch?v=BugsxOzpKRU&t=36s\n*재회의 순간* \nhttps://www.youtube.com/watch?v=TchvDwcfpmU\n*결혼합니다* \nhttps://www.youtube.com/watch?v=EyZ2NfG5Y7E\n*꿈같은 해외 결혼식* \nhttps://www.youtube.com/watch?v=EcZarzvkWuA\nhttps://www.youtube.com/watch?v=pGVVbCx5v9g\n*3년 간의 회사 생활* \nhttps://www.youtube.com/watch?v=cCUKxLuEMUY&t=179s\n*퇴사한 이유* \nhttps://www.youtube.com/watch?v=WuiSj7e2fws\n\n그 외에도 다양한 이야기는 유네린 채널에서 ‘오래된 순’을 클릭하고 순차대로 감상해보세요! 🙆\u200d♀️\n\n\n𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 @h.rin.y2\nhttps://www.instagram.com/h.rin.y2/\n\n𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬\nunerin@sandbox.co.kr\n모든 영상에 대한 기사화, 포스팅 이전에 이메일로 문의 부탁드립니다.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VbqvXr0zhUc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VbqvXr0zhUc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VbqvXr0zhUc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VbqvXr0zhUc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VbqvXr0zhUc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "유네린LIN",
+          "tags": [
+            "드로우 마이 라이프",
+            "드로우마이라이프",
+            "20대 이야기",
+            "30대 이야기",
+            "일상 브이로그",
+            "일상",
+            "직장인",
+            "퇴사",
+            "대기업",
+            "명문대",
+            "국제결혼",
+            "국제부부",
+            "국제커플",
+            "결혼",
+            "20대 결혼",
+            "20대 인생 이야기",
+            "인생 이야기",
+            "인생 썰",
+            "인생 썰 풀기",
+            "썰 풀기",
+            "수다",
+            "퇴사 썰",
+            "퇴사 토크",
+            "인생 토크"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "다시 대학에 갑니다 | 드로우마이라이프, 새로운 30대의 시작📈",
+            "description": "*흩어진 조각들을 하나로 꿰어 이야기로 만드는 순간, 우리는 모두 특별한 이야기의 주인공이 됩니다!*\n\n모두에게는 각자만의 이야기가 있어요. 누구나 스스로가 싫어서 눈물만 나는 시기를 피할 수 없고, 끝없이 지속됐으면 하는 행복한 날들 또한 언젠가는 찾아오기 마련입니다.\n\n불안하고 지난했던 시간들도 지나고 보니 다 내가 되었고, 주저 앉은 만큼 다시 일어나서 뛸 줄 아는 사람이 되었더라구요. 불가항적인 인생의 굴곡을 지나온 10년을 돌아보니 저의 산란한 이야기도 결국 하나의 궤로 관통되는 것 같아요.\n\n그 끝에 제가 도달한 결론은, 우리가 할 수 있는 최선이\n[미래의 내가, 과거의 나를 대견하게 여길 수 있도록, 현재의 내가 꾸준히 살아가는 것] 뿐이라는 거예요. \n\n여러분에게 힘든 순간이 올 때마다 몇 번이고 쓰라린 경험을 했던 저를 떠올리며, 언젠가는 좋은 날도 찾아온다는 마음을 품으신다면 저는 더 바랄 게 없겠어요. 잘못 탄 기차가 때로는 나를 새로운 목적지로 데려다준다는 희망적인 가능성도 떠올리면서요.\n\n저는 이제 20대의 스스로를 대견히 보내주면서 30대에는 새로운 도전을 해보려고 합니다. 다음 영상에 더 자세한 내용을 담아올게요!\n\n제 인생의 여러 전환점에 항상 함께해 주신 구독자 여러분께도 다시 한번 감사의 인사를 드립니다. 백 번을 드려도 모자랄 감사! 압도적 감사! 사랑합니다… 🤎\n\n\n🔖영상에 나온 이야기들 보러가기 📫📬📭\n*취준생*\nhttps://youtu.be/WdFsFIzwKH0?si=QSdheYTlXA0KJH_V\n*어떻게 만났어요?*\n1) https://www.youtube.com/watch?v=mYWnqExvc9g\n2) https://youtu.be/vdDe_6556_Q\n*인턴 합격의 순간*\nhttps://www.youtube.com/watch?v=XXdpvQFfrJw\n*공채 합격의 순간* \nhttps://www.youtube.com/watch?v=rVkTIecC8Qo\n*첫출근* \nhttps://www.youtube.com/watch?v=EspWqrPm-3s\n*홈쇼핑 PD 브이로그* \nhttps://www.youtube.com/watch?v=BugsxOzpKRU&t=36s\n*재회의 순간* \nhttps://www.youtube.com/watch?v=TchvDwcfpmU\n*결혼합니다* \nhttps://www.youtube.com/watch?v=EyZ2NfG5Y7E\n*꿈같은 해외 결혼식* \nhttps://www.youtube.com/watch?v=EcZarzvkWuA\nhttps://www.youtube.com/watch?v=pGVVbCx5v9g\n*3년 간의 회사 생활* \nhttps://www.youtube.com/watch?v=cCUKxLuEMUY&t=179s\n*퇴사한 이유* \nhttps://www.youtube.com/watch?v=WuiSj7e2fws\n\n그 외에도 다양한 이야기는 유네린 채널에서 ‘오래된 순’을 클릭하고 순차대로 감상해보세요! 🙆\u200d♀️\n\n\n𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 @h.rin.y2\nhttps://www.instagram.com/h.rin.y2/\n\n𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬\nunerin@sandbox.co.kr\n모든 영상에 대한 기사화, 포스팅 이전에 이메일로 문의 부탁드립니다."
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT10M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "177364",
+          "likeCount": "8078",
+          "favoriteCount": "0",
+          "commentCount": "513"
+        }
+      }
+    ],
+    "nextPageToken": "CAoQAA",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 10
+    }
+  }

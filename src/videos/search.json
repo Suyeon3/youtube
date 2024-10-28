@@ -1,0 +1,346 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "nk_2QCuVBn2Syo2GBXNLvGfhiqM",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 10
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xtb2iGP8JquD1nh5bH5197glaa8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PWjZ3p1jNho"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-25T04:00:01Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "진 (Jin) &#39;I&#39;ll Be There&#39; Official MV",
+          "description": "진 (Jin) 'I'll Be There' Listen now: https://jin.lnk.to/illbethere Credits: Director : Yongseok Choi (Lumpens) Assistant Director ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PWjZ3p1jNho/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PWjZ3p1jNho/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PWjZ3p1jNho/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-25T04:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AEJdjpCXymY2e5MqlCOvM86q6Oo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gdZLi9oWNZg"
+        },
+        "snippet": {
+          "publishedAt": "2020-08-21T03:58:10Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+          "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-08-21T03:58:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4PeStEa6ag32ON8Cb8amgz5VUiY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GZjt_sA2eso"
+        },
+        "snippet": {
+          "publishedAt": "2016-05-15T13:00:03Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+          "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-05-15T13:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vsIC-vTwrCdJOfPhcsv0nbk69m8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5xl95nHzaJs"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-19T20:10:34Z",
+          "channelId": "UCt3BAtgtYqobZ3sCC__E7GA",
+          "title": "BTS (방탄소년단) - Dynamite (Live on Billboard Music Awards) 4K",
+          "description": "BTS (방탄소년단) performs 'Dynamite' on Billboard Music Awards, 4K - Live Performance - 2020 ‣ Email for contact and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5xl95nHzaJs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5xl95nHzaJs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5xl95nHzaJs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ayberk MusiC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-19T20:10:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MJ3KhGmqVMGsQ0jhj0IbbqposNY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XsX3ATc3FbA"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-12T09:00:02Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+          "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-12T09:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0Vfdb8o4N1FxEZWvChtaB4qmaZw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC9vrvNSL3xcWGSkV86REBSg"
+        },
+        "snippet": {
+          "publishedAt": "2013-12-23T20:47:31Z",
+          "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
+          "title": "BTS - Topic",
+          "description": "BTS (방탄소년단) is a Grammy-nominated South Korean group that has been capturing the hearts of millions of fans globally since ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "BTS - Topic",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-12-23T20:47:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j_qiz4-AwrbsFOLk439yXaka270",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HbkBVxU5K5A"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-23T01:00:03Z",
+          "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+          "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+          "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BANGTANTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-23T01:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m0YbYI8HsdGzGAJ9dJG8K9m-sGc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kTlv5_Bs8aw"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-24T09:00:02Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
+          "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-24T09:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ONrDba04vcb_O-nQmEqSRoWGJ84",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uC8jDT80Ip0"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-26T04:17:23Z",
+          "channelId": "UCDjgbx2FcnM_rBjmnSb9EoQ",
+          "title": "&#39;I&#39;ll Be There&#39; MV에 담긴 진의 특별한 메시지, ARMY에게 전해지다#BTS #RM #진 #슈가 #제이홉 #지민 #뷔 #정국",
+          "description": "BTS 데일리 버즈에 오신 것을 환영합니다! 여기에서는 BTS의 최신 뉴스, 활동, 음악 발매, 이벤트 정보 등을 전해드립니다.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uC8jDT80Ip0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uC8jDT80Ip0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uC8jDT80Ip0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BTS 뉴스 데일리",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-26T04:17:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HWM3oBRI2RLIb8E36iqgBJTHci0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bt2HLiS3LiA"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-27T05:08:02Z",
+          "channelId": "UC1reoal0esOCQkomB97e9wQ",
+          "title": "제이홉(방탄소년단),&quot;전역하자마자 열일 모드 호비, 이날만을 기다렸어💜&quot;l J-HOPE(BTS),&quot;Working hard mode, Hobi, waited for this&quot;[공항]",
+          "description": "[Dispatch=인천공항ㅣ김미류기자] '방탄소년단(BTS)' 제이홉이 해외 일정 차 27일 오후 인천국제공항을 통해 미국 로스앤젤레스로 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bt2HLiS3LiA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bt2HLiS3LiA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bt2HLiS3LiA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "디스패치 / Dispatch",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-27T05:08:02Z"
+        }
+      }
+    ]
+  }

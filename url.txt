@@ -1,0 +1,8 @@
+// 핫트렌드
+'https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=10&regionCode=KR&key=[YOUR_API_KEY]'
+
+// 키워드 검색
+'https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=bts&key=[YOUR_API_KEY]'
+
+// 선택한 비디오 id
+'https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Ks-_Mh1QhMc&maxResults=10&key=[YOUR_API_KEY]'

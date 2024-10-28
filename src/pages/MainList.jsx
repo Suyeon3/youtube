@@ -11,6 +11,7 @@ export const loader = async () => {
                 regionCode: 'KR'
             },
         });
+        console.log('fetching...');
         return response.data.items;
     } catch (error) {
         console.log(`Error Listing Videos: ${error}`);
