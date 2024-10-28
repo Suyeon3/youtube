@@ -1,41 +1,34 @@
-import { useLoaderData } from "react-router-dom";
-import api from '../api';
-import { useEffect, useState } from "react";
-
-export const loader = async ({ params }) => {
-    try {
-        const response = await api.get('/search', {
-            params: {
-                q: `${params.keyword}`,
-            },
-        });
-        return response.data.items;
-    } catch (error) {
-        console.log(`Error Seraching Videos: ${error}`);
-        return null;
-    };
-}
+import { useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
+import FakeYoutube from "../api/fakeYoutube";
 
 export default function SearchResults() {
-    const [videos, setVideos] = useState([]);
-    const results = useLoaderData();
-
-    useEffect(() => {
-        if (results) {
-            setVideos(results);
-        };
-    }, [results]);
+    const { keyword } = useParams()
+    const { isLoading, error, data: videos } = useQuery({
+        queryKey: ['videos'],
+        queryFn: () => {
+            const youtube = new FakeYoutube();
+            return youtube.searchByKeyword(keyword);
+        }
+    })
 
     return (
-        <ul>
-            {videos.map((video) => (
-                <li key={video.id.videoId}>
-                    <img
-                        src={video.snippet.thumbnails.medium.url}
-                    />
-                    <p>{video.snippet.title}</p>
-                </li>
-            ))}
-        </ul>
+        <>
+            {isLoading && (<p>isLoading..</p>)}
+            {error && (<p>something is wrong..</p>)}
+            {videos && (
+                <ul>
+                    {videos.map((video) => (
+                        <li key={video.id.videoId}>
+                            <img
+                                src={video.snippet.thumbnails.medium.url}
+                            />
+                            <p>{video.snippet.title}</p>
+                        </li>
+                    ))}
+                </ul>
+            )}
+        </>
+
     )
 }

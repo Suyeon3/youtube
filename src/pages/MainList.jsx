@@ -1,51 +1,39 @@
-import { useLoaderData, useNavigate } from "react-router-dom";
-import api from '../api';
-import { useState, useEffect } from "react";
-
-export const loader = async () => {
-    try {
-        const response = await api.get('/videos', {
-            params: {
-                part: 'snippet,contentDetails,statistics',
-                chart: 'mostPopular',
-                regionCode: 'KR'
-            },
-        });
-        console.log('fetching...');
-        return response.data.items;
-    } catch (error) {
-        console.log(`Error Listing Videos: ${error}`);
-        return null;
-    };
-}
+import { useNavigate } from "react-router-dom";
+import { useQuery } from '@tanstack/react-query';
+import FakeYoutube from "../api/fakeYoutube";
+import Youtube from "../api/youtube";
 
 export default function MainList() {
-    const [videos, setVideos] = useState([]);
-    const results = useLoaderData();
-    const navigate = useNavigate();
-
-    useEffect(() => {
-        if (results) {
-            console.log(results);
-            setVideos(results);
+    const { isLoading, error, data: videos } = useQuery({
+        queryKey: ['videos'],
+        queryFn: () => {
+            const youtube = new FakeYoutube();
+            return youtube.mostPopular();
         }
-    }, [results]);
+    })
+    const navigate = useNavigate();
 
     const clickVideo = (vi) => {
         navigate(`watch/${vi}`);
     }
 
     return (
-        <ul>
-            {videos.map((video) => (
-                <li key={video.id}>
-                    <img
-                        src={video.snippet.thumbnails.medium.url}
-                        onClick={() => clickVideo(video.id)}
-                    />
-                    <p onClick={() => clickVideo(video.id)}>{video.snippet.title}</p>
-                </li>
-            ))}
-        </ul>
+        <>
+            {isLoading && (<p>isLoading..</p>)}
+            {error && (<p>something is wrong..</p>)}
+            {videos && (
+                <ul>
+                    {videos.map((video) => (
+                        <li key={video.id}>
+                            <img
+                                src={video.snippet.thumbnails.medium.url}
+                                onClick={() => clickVideo(video.id)}
+                            />
+                            <p onClick={() => clickVideo(video.id)}>{video.snippet.title}</p>
+                        </li>
+                    ))}
+                </ul>
+            )}
+        </>
     )
 }

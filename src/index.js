@@ -7,9 +7,9 @@ import {
   createBrowserRouter,
   RouterProvider
 } from 'react-router-dom';
-import SearchResults, { loader as searchLoader } from './pages/SearchResults';
-import MainList, { loader as mainLaoder } from './pages/MainList';
-import VideoDetail, { loader as videoDetailLoader } from './pages/VideoDetail';
+import SearchResults from './pages/SearchResults';
+import MainList from './pages/MainList';
+import VideoDetail from './pages/VideoDetail';
 
 const router = createBrowserRouter([
   {
@@ -19,18 +19,15 @@ const router = createBrowserRouter([
       {
         path: '',
         element: <MainList />,
-        loader: mainLaoder
       },
       {
         path: 'results/:keyword',
         element: <SearchResults />,
-        loader: searchLoader,
       },
 
       {
         path: 'watch/:vi',
         element: <VideoDetail />,
-        loader: videoDetailLoader
       }
     ]
   }

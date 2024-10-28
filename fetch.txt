@@ -1,0 +1,11 @@
+// 핫트렌드
+const fetchData = async () => {
+    const response = await api.get('/videos', {
+        params: {
+            part: 'snippet,contentDetails,statistics',
+            chart: 'mostPopular',
+            regionCode: 'KR'
+        }
+    })
+    return response.data.item;
+}
