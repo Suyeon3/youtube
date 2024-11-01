@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
-import FakeYoutube from "../api/fakeYoutube";
+import FakeYoutube from "../api/fakeYoutubeClient";
 import { useYoutubeApi } from "../context/YoutubeApiContext";
 
 export default function SearchResults() {

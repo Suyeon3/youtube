@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query';
-import FakeYoutube from '../api/fakeYoutube';
+import FakeYoutube from '../api/fakeYoutubeClient';
 import { useParams } from 'react-router-dom';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 
