@@ -2,14 +2,13 @@ import { useNavigate } from "react-router-dom";
 import { useQuery } from '@tanstack/react-query';
 import FakeYoutube from "../api/fakeYoutube";
 import Youtube from "../api/youtube";
+import { useYoutubeApi } from "../context/YoutubeApiContext";
 
 export default function MainList() {
+    const { youtube } = useYoutubeApi();
     const { isLoading, error, data: videos } = useQuery({
         queryKey: ['videos'],
-        queryFn: () => {
-            const youtube = new FakeYoutube();
-            return youtube.mostPopular();
-        }
+        queryFn: () => youtube.mostPopular()
     })
     const navigate = useNavigate();
 

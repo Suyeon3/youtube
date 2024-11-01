@@ -1,15 +1,14 @@
 import { useQuery } from '@tanstack/react-query';
 import FakeYoutube from '../api/fakeYoutube';
 import { useParams } from 'react-router-dom';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function VideoDetail() {
     const { vi } = useParams();
+    const { youtube } = useYoutubeApi();
     const { isLoading, error, data: video } = useQuery({
         queryKey: ['video'],
-        queryFn: () => {
-            const youtube = new FakeYoutube();
-            return youtube.select(vi);
-        }
+        queryFn: () => youtube.select(vi)
     })
 
     const iframeProps = {

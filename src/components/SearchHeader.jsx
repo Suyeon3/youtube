@@ -30,11 +30,11 @@ export default function SearchHeader() {
   return (
 
     <header className='w-full flex p-4 text-2xl border-b border-zinc-600 mb-4 items-center'>
-      <BsYoutube className='text-4xl text-brand' onClick={backHome} />
+      <BsYoutube className='text-4xl text-brand ' onClick={backHome} />
       <h1 className="font-bold ml-2 text-3xl">YouTube</h1>
       <form className="w-full flex justify-center items-center">
         <input
-          className="w-7/12 p-2 outline-none bh-black text-gray-50"
+          className="w-7/12 p-2 outline-none bh-black text-black"
           placeholder='Search'
           value={keyword}
           onChange={handleKeyword}
